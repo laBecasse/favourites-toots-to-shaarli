@@ -1,0 +1,21 @@
+{
+  "name": "favourites-toots-to-shaarli",
+  "version": "1.0.0",
+  "description": "post favourites toots from mastodon to shaarli",
+  "main": "index.js",
+  "dependencies": {
+    "html2plaintext": "^2.0.1",
+    "mastodon": "^1.2.2",
+    "shaarli-client": "0.0.2",
+    "turndown": "^4.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "mastodon"
+  ],
+  "author": "La Bécasse",
+  "license": "ISC"
+}
