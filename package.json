@@ -6,7 +6,7 @@
   "dependencies": {
     "html2plaintext": "^2.1.2",
     "mastodon": "^1.2.2",
-    "shaarli-client": "0.0.4",
+    "shaarli-client": "0.0.5",
     "turndown": "^4.0.2"
   },
   "devDependencies": {},
