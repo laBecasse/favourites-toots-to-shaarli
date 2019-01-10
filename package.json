@@ -4,10 +4,10 @@
   "description": "post favourites toots from mastodon to shaarli",
   "main": "index.js",
   "dependencies": {
-    "html2plaintext": "^2.0.1",
+    "html2plaintext": "^2.1.2",
     "mastodon": "^1.2.2",
-    "shaarli-client": "0.0.2",
-    "turndown": "^4.0.1"
+    "shaarli-client": "0.0.4",
+    "turndown": "^4.0.2"
   },
   "devDependencies": {},
   "scripts": {
